@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anirudh</h1>
-<h3 align="center">Always striving to turn curiosity into code.</h3>
+<h1 align="left">Hi, I'm Anirudh</h1>
+<h3 align="left">Always striving to turn curiosity into code.</h3>
 
 - 🔭 I’m currently working on [CodeLab](https://github.com/aniruddramesh/CodeLab)
 
